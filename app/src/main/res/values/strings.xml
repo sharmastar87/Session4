@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="notMember">Not a member?</string>
+    <string name="signup">Sign up now.</string>
+</resources>
